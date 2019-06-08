@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bus_name">
+        <item>DL 06 XX 0101</item>
+        <item>DL 06 XX 0102</item>
+        <item>DL 06 XX 0103</item>
+        <item>DL 06 XX 0104</item>
+        <item>DL 06 XX 0105</item>
+    </string-array>
+</resources>

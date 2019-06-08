@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/signin"
+        android:checkable="true"
+        android:title="SignIn"
+        android:icon="@drawable/ic_add_circle_outline_black_24dp"/>
+    <item
+        android:id="@+id/Profile"
+        android:checkable="true"
+        android:title="Profile"
+        android:icon="@drawable/ic_person_black_24dp">
+
+    </item>
+
+    <item
+        android:id="@+id/Location"
+        android:checkable="true"
+        android:title="Edit Location"
+        android:icon="@drawable/ic_location_on_black_24dp">
+
+    </item>
+</menu>
